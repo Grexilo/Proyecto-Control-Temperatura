@@ -6,5 +6,5 @@
 
 En este repositorio se encuentran los codigo usado para el control de Temperatura.
 
-[Toma Datos](#https://github.com/Grexilo/Proyecto-Control-Temperatura/tree/main/Toma%20Datos)
+[Toma Datos link](https://github.com/Grexilo/Proyecto-Control-Temperatura/tree/main/Toma%20Datos)
 
