@@ -14,5 +14,11 @@
 
 ## **Importante** 
 
--Para la visualización de los datos en tiempo real se debe ejecutar [graficar_Datos.m](https://github.com/Grexilo/Proyecto-Control-Temperatura/blob/main/grafiar_Datos.m).
--**Tener en cuenta el puerto serial al momento de conectar arduino y hacer el cambio en los codigos de MATLAB**
+1. Para la visualización de los datos en tiempo real se debe ejecutar [graficar_Datos.m](https://github.com/Grexilo/Proyecto-Control-Temperatura/blob/main/grafiar_Datos.m)
+
+2. **Tener en cuenta el puerto serial al momento de conectar arduino y hacer el cambio en los codigos de MATLAB**
+
+3. Pines usados en Arduino:
+  - Pin 6: Salida PWM al CH1 del Rele de estado solido
+  - Pin A0: Vout del sensor LM35, para la lectura de la temperatura
+
