@@ -6,5 +6,5 @@
 
 En este repositorio se encuentran los codigo usado para el control de Temperatura.
 
-[Toma Datos link](https://github.com/Grexilo/Proyecto-Control-Temperatura/tree/main/Toma%20Datos)
+En la seccion [Toma Datos](https://github.com/Grexilo/Proyecto-Control-Temperatura/tree/main/Toma%20Datos), se encuentran los codigos para realizar la toma de datos un Arduino y ser captados por MATLAB. ** Estos codigos solo toman datos, son usados para caracterizar la planta ** 
 
